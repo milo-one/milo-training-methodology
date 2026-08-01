@@ -1,0 +1,12 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Synthetic placeholder prompt; not derived from the private corpus."
+    },
+    {
+      "role": "assistant",
+      "content": "Synthetic placeholder assistant answer; not derived from the private corpus."
+    }
+  ]
+}
