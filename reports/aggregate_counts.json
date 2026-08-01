@@ -1,0 +1,23 @@
+{
+  "raw": {
+    "gpt_4o": {
+      "chats": 1767,
+      "user_prompts": 79120,
+      "ai_responses": 85679
+    },
+    "grok_4_3": {
+      "chats": 91,
+      "interactions": 4237
+    }
+  },
+  "final": {
+    "sft_rows": 739,
+    "orpo_preference_candidates": 806,
+    "orpo_rows": 1612,
+    "new_tool_injections": 222,
+    "final_tool_tails": 230,
+    "sft_tool_tails": 78,
+    "orpo_tool_tails": 152
+  },
+  "data_release": "No raw, curated, or final training data are included."
+}
