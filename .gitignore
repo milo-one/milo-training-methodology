@@ -1,0 +1,13 @@
+# Private data must never be committed
+*.jsonl
+*.json
+!reports/aggregate_counts.json
+
+# Local artifacts
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Office temp files
+~$*.docx
