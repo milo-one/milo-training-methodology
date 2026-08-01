@@ -1,5 +1,7 @@
 # MILO Training Methodology
 
+[![DOI](https://zenodo.org/badge/1319358060.svg)](https://doi.org/10.5281/zenodo.21741049) 
+
 This repository documents the methodology, preprocessing logic, validation approach, and preregistration-relevant decisions for the MILO private training-data preparation workflow.
 
 **No training data are included in this repository.**
